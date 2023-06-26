@@ -1,6 +1,9 @@
 # MC_WARZ
 Serveur minecraft apocalypse zombie
 
+# Required version of forge : 1.16.5
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html
+
 # Sources :
 All mods and plugins are from : https://www.curseforge.com/minecraft/modpacks
 https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod/files/3830458
